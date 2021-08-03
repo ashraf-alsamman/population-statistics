@@ -15,9 +15,11 @@ A simple project to show charts with map markers for the total population statis
 - Typescript
 - Redux
 - LeafletJs
+- react-chartjs-2
 
 ## Installation:
 - clone the repository
 - run `yarn`
 - run `yarn start`
+
 * No need to add an API key to test this project
