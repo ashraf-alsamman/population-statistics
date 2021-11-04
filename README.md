@@ -22,5 +22,4 @@ A simple project to show charts with map markers for the total population statis
 - run `yarn`
 - run `yarn start`
 
-live demo
-* https://ostrom-frontend.herokuapp.com
+
